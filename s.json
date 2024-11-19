@@ -18,27 +18,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/cnlv/tv/-/raw/main/js/drpy.js"
     },
-    {
-      "key": "js_豆瓣1",
-      "name": "🔥平安™视界 更新github ⏱20241119",
-      "type": 3,
-      "api": "https://raw.gitmirror.com/Mrish9527/jk/main/drpy1.js",
-      "ext": "https://raw.gitmirror.com/Mrish9527/jk/main/drpy2.js"
-    },
-    {
-      "key": "js_豆瓣2",
-      "name": "🔥平安™视界 更新Gitee ⏱20241119",
-      "type": 3,
-      "api": "https://gitee.com/cnlv/jk/raw/master/drpy1.js",
-      "ext": "https://gitee.com/cnlv/jk/raw/master/drpy2.js"
-    },
-    {
-      "key": "js_豆瓣3",
-      "name": "🔥平安™视界 更新kst ⏱20241119",
-      "type": 3,
-      "api": "https://4622.kstore.space/douban/drpy1.js",
-      "ext": "https://4622.kstore.space/douban/drpy2.js"
-    },
+   
         {
             "key": "预告",
             "name": "新片｜预告",
