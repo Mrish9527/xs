@@ -8,22 +8,23 @@
   "homeLogo": "https://git.acwing.com/cnlv/tv/-/raw/main/palogo.png",
 
    "lives": [
-     {
-      "name": "直播丨平安自用",
+    {
+      "name": "平安电信",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://raw.githubusercontents.com/PizazzGY/TV/master/output/user_result.txt",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png"
+    },
+    {
+      "name": "平安移动",
       "type": 0,
       "playerType": 1,
       "url": "https://raw.githubusercontents.com/Mrish9527/xs/refs/heads/main/live.txt",
       "logo": "https://live.fanmingming.cn/tv/{name}.png"
     },
+
     {
-      "name": "直播丨平安本地",
-      "type": 0,
-      "playerType": 1,
-      "url": "./live.txt",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-    {
-      "name": "直播丨自用防崩",
+      "name": "自用防崩",
       "type": 0,
       "playerType": 1,
       "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt",
